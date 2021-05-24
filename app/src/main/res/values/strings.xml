@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HighPerformance</string>
+    <string name="no_internet">No Internet</string>
+    <string name="enable">ENABLE %s</string>
+    <string name="username">Username</string>
+    <string name="age_0">Age</string>
+    <string name="created_date_27_10_2021">Date</string>
+    <string name="patId">Patient Id</string>
+</resources>
